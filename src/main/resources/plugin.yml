@@ -1,0 +1,9 @@
+main: com.scolastico.s.tools.STools
+name: sTools
+version: 1.0.0
+description: scolastico's Tool Library
+api-version: 1.15
+load: STARTUP
+author: scolastico
+website: www.scolasti.co
+prefix: sTools
